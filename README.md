@@ -15,7 +15,7 @@ The **SKILLSWAP** addresses critical challenges in the development field:
 
 ## Contributors
 
-- [Jitesh](https://github.com/decifur)
-- [Samay](https://github.com/MagnonCode)
-- [Sajid](https://github.com/Ryneex)
+- [Akshat](https://github.com/AkshatGovindiya)
+- [Vrajesh](https://github.com/VrajeshMer16)
+- [Krishn](https://github.com/Ryneex)
 - [Kenil](https://github.com/kenilGamer)
